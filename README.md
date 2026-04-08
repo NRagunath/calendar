@@ -1,4 +1,4 @@
-# 📅 Glassmorphic Calendar — The Redesign
+# 📅 Calendar — The Redesign
 
 A visually striking, highly unique calendar component built with Next.js 15, TypeScript, and a custom glassmorphic CSS design system. 
 
